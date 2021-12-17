@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090756951537",
+    "firebase_url": "https://newagent-91c05.firebaseio.com",
+    "project_id": "newagent-91c05",
+    "storage_bucket": "newagent-91c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090756951537:android:1137d6c3ed34aa5d881850",
+        "android_client_info": {
+          "package_name": "com.example.quizy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090756951537-lcf5kg5mmafsucjd39728buq90bk4op7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQac9wffc7Tiucqqxr_Te3pzQB-yjou3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090756951537-lcf5kg5mmafsucjd39728buq90bk4op7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
